@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capapresentacion\\ventadetallecp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\ventadetallecp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capapresentacion\\ventadetallecp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\ventadetallecp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capapresentacion\\clientecp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\clientecp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capapresentacion\\principalcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\principalcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capapresentacion\\principalcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\principalcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capapresentacion\\productocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\productocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capapresentacion\\productocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\productocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\madely\\downloads\\slnejercicio10.singleton\\slnejercicio10.singleton\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88642A61-602D-4470-955A-2939CE12A2C8}|CapaNegocios\\CapaNegocios.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capanegocios\\ventadetallecn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88642A61-602D-4470-955A-2939CE12A2C8}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\ventadetallecn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88642A61-602D-4470-955A-2939CE12A2C8}|CapaNegocios\\CapaNegocios.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capanegocios\\ventacn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88642A61-602D-4470-955A-2939CE12A2C8}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\ventacn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88642A61-602D-4470-955A-2939CE12A2C8}|CapaNegocios\\CapaNegocios.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capanegocios\\productocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88642A61-602D-4470-955A-2939CE12A2C8}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\productocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88642A61-602D-4470-955A-2939CE12A2C8}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\madely\\downloads\\slnejercicio10.singleton\\slnejercicio10.singleton\\capanegocios\\clientecn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88642A61-602D-4470-955A-2939CE12A2C8}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\clientecn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E942A2-2DA0-44EB-BDF2-AAF175FE489A}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capaentidad\\ventadetallece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E942A2-2DA0-44EB-BDF2-AAF175FE489A}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\ventadetallece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E942A2-2DA0-44EB-BDF2-AAF175FE489A}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capaentidad\\productoce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E942A2-2DA0-44EB-BDF2-AAF175FE489A}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\productoce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E942A2-2DA0-44EB-BDF2-AAF175FE489A}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capaentidad\\ventace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E942A2-2DA0-44EB-BDF2-AAF175FE489A}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\ventace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E942A2-2DA0-44EB-BDF2-AAF175FE489A}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capaentidad\\clientece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E942A2-2DA0-44EB-BDF2-AAF175FE489A}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\clientece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF91EAE-EDD1-45DE-81C8-68290E79A50A}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capadatos\\ventadetallecd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF91EAE-EDD1-45DE-81C8-68290E79A50A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\ventadetallecd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF91EAE-EDD1-45DE-81C8-68290E79A50A}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capadatos\\ventacd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF91EAE-EDD1-45DE-81C8-68290E79A50A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\ventacd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF91EAE-EDD1-45DE-81C8-68290E79A50A}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capadatos\\productocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF91EAE-EDD1-45DE-81C8-68290E79A50A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\productocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF91EAE-EDD1-45DE-81C8-68290E79A50A}|CapaDatos\\CapaDatos.csproj|c:\\users\\madely\\downloads\\slnejercicio10.singleton\\slnejercicio10.singleton\\capadatos\\conexioncd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF91EAE-EDD1-45DE-81C8-68290E79A50A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexioncd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF91EAE-EDD1-45DE-81C8-68290E79A50A}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capadatos\\clientecd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF91EAE-EDD1-45DE-81C8-68290E79A50A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\clientecd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capapresentacion\\clientecp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\clientecp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\capapresentacion\\productocp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5F8A60-2522-40EA-99E2-7A101F9DD781}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\productocp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoCP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\ProductoCP.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ProductoCP.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\ProductoCP.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\ProductoCP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:30:13.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoCP.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\ProductoCP.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ProductoCP.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\ProductoCP.cs",
+              "RelativeToolTip": "CapaPresentacion\\ProductoCP.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:31:41.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrincipalCP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\PrincipalCP.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PrincipalCP.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\PrincipalCP.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\PrincipalCP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:26:08.907Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrincipalCP.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\PrincipalCP.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\PrincipalCP.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\PrincipalCP.cs",
+              "RelativeToolTip": "CapaPresentacion\\PrincipalCP.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:26:11.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteCP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\ClienteCP.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ClienteCP.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\ClienteCP.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\ClienteCP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:24:57.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaDetalleCP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\VentaDetalleCP.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\VentaDetalleCP.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\VentaDetalleCP.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\VentaDetalleCP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:37:52.541Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaDetalleCP.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\VentaDetalleCP.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\VentaDetalleCP.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\VentaDetalleCP.cs",
+              "RelativeToolTip": "CapaPresentacion\\VentaDetalleCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:28:06.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:01:56.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VentaCN.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaNegocios\\VentaCN.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\VentaCN.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaNegocios\\VentaCN.cs",
+              "RelativeToolTip": "CapaNegocios\\VentaCN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T23:17:33.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoCN.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaNegocios\\ProductoCN.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\ProductoCN.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaNegocios\\ProductoCN.cs",
+              "RelativeToolTip": "CapaNegocios\\ProductoCN.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:34:12.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteCN.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaNegocios\\ClienteCN.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\ClienteCN.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaNegocios\\ClienteCN.cs",
+              "RelativeToolTip": "CapaNegocios\\ClienteCN.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:00:53.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoCE.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaEntidad\\ProductoCE.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\ProductoCE.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaEntidad\\ProductoCE.cs",
+              "RelativeToolTip": "CapaEntidad\\ProductoCE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:34:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VentaCE.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaEntidad\\VentaCE.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\VentaCE.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaEntidad\\VentaCE.cs",
+              "RelativeToolTip": "CapaEntidad\\VentaCE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T23:15:57.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteCE.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaEntidad\\ClienteCE.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\ClienteCE.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaEntidad\\ClienteCE.cs",
+              "RelativeToolTip": "CapaEntidad\\ClienteCE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:17:17.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VentaDetalleCD.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaDatos\\VentaDetalleCD.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\VentaDetalleCD.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaDatos\\VentaDetalleCD.cs",
+              "RelativeToolTip": "CapaDatos\\VentaDetalleCD.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAnwFcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T23:01:28.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VentaCD.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaDatos\\VentaCD.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\VentaCD.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaDatos\\VentaCD.cs",
+              "RelativeToolTip": "CapaDatos\\VentaCD.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T23:16:56.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VentaDetalleCN.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaNegocios\\VentaDetalleCN.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\VentaDetalleCN.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaNegocios\\VentaDetalleCN.cs",
+              "RelativeToolTip": "CapaNegocios\\VentaDetalleCN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T23:21:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductoCD.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaDatos\\ProductoCD.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ProductoCD.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaDatos\\ProductoCD.cs",
+              "RelativeToolTip": "CapaDatos\\ProductoCD.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAWwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:30:57.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConexionCD.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaDatos\\ConexionCD.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ConexionCD.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaDatos\\ConexionCD.cs",
+              "RelativeToolTip": "CapaDatos\\ConexionCD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T23:29:08.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClienteCD.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaDatos\\ClienteCD.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ClienteCD.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaDatos\\ClienteCD.cs",
+              "RelativeToolTip": "CapaDatos\\ClienteCD.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAwwFEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T23:03:27.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentaDetalleCE.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaEntidad\\VentaDetalleCE.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\VentaDetalleCE.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaEntidad\\VentaDetalleCE.cs",
+              "RelativeToolTip": "CapaEntidad\\VentaDetalleCE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:46:25.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClienteCP.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\ClienteCP.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ClienteCP.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\ClienteCP.cs",
+              "RelativeToolTip": "CapaPresentacion\\ClienteCP.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:24:49.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductoCP.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\ProductoCP.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ProductoCP.Designer.cs",
+              "ToolTip": "C:\\Users\\Madely\\Downloads\\slnEjercicio10.SINGLETON\\slnEjercicio10.SINGLETON\\CapaPresentacion\\ProductoCP.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\ProductoCP.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:10:59.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+CorrelationId: 49a71726-0a78-47ed-8af4-88fe7197019b
+UTC DateTime: 10/22/2025 03:26:41
+
+The following files/folders have not been downloaded
+0. slnEjercicio10.SINGLETON/CapaDatos/obj/Debug/CapaDatos.csproj.Up2Date
+1. slnEjercicio10.SINGLETON/CapaNegocios/obj/Debug/CapaNego.1D246B3C.Up2Date
+2. slnEjercicio10.SINGLETON/CapaPresentacion/obj/Debug/CapaPres.61CA7C38.Up2Date

@@ -1,0 +1,12 @@
+D:\0-202520\60PDSDS401\03-LP1\MG401\slnEjercicio09.NCAPAS.ADO.NET\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\0-202520\60PDSDS401\03-LP1\MG401\slnEjercicio09.NCAPAS.ADO.NET\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\0-202520\60PDSDS401\03-LP1\MG401\slnEjercicio09.NCAPAS.ADO.NET\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\0-202520\60PDSDS401\03-LP1\MG401\slnEjercicio09.NCAPAS.ADO.NET\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\0-202520\60PDSDS401\03-LP1\MG401\slnEjercicio09.NCAPAS.ADO.NET\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\0-202520\60PDSDS401\03-LP1\MG401\slnEjercicio09.NCAPAS.ADO.NET\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Madely\Downloads\slnEjercicio10.SINGLETON\slnEjercicio10.SINGLETON\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Madely\Downloads\slnEjercicio10.SINGLETON\slnEjercicio10.SINGLETON\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Madely\Downloads\slnEjercicio10.SINGLETON\slnEjercicio10.SINGLETON\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Madely\Downloads\slnEjercicio10.SINGLETON\slnEjercicio10.SINGLETON\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Madely\Downloads\slnEjercicio10.SINGLETON\slnEjercicio10.SINGLETON\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Madely\Downloads\slnEjercicio10.SINGLETON\slnEjercicio10.SINGLETON\CapaEntidad\obj\Debug\CapaEntidad.pdb
